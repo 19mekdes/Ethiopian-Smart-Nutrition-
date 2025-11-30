@@ -1,5 +1,7 @@
 🍴 Ethiopian Smart Nutrition – MERN Stack Website
+
 📖 Project Overview
+
 Ethiopian Smart Nutrition is a full-stack web application built with the MERN stack (MongoDB, Express.js, React.js, Node.js).
 The platform is designed to promote healthy eating habits in Ethiopia by providing users with nutritional information,
 meal recommendations, and diet tracking tools tailored to local foods and cultural practices.
